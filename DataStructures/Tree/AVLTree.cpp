@@ -1,4 +1,4 @@
-#include "/Users/michallejza/CLionProjects/Everything/DataStructures/Tree/Tree.hpp"
+#include "../DataStructures/Tree/Tree.hpp"
 
 #pragma once
 
