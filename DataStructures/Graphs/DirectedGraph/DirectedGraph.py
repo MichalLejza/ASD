@@ -1,6 +1,5 @@
 from Node import *
 
-
 class DirectedGraph:
     def __init__(self, connections: list[tuple[str, str]]):
         self.connections = connections
